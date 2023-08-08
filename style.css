@@ -28,10 +28,6 @@ header {
   color: hsl(0deg, 0%, 0%)
 }
 
-.intro-chunk > p {
-  max-width: 415px;
-}
-
 p {
   padding: 0;
   margin: 16px 0 16px;
@@ -69,4 +65,5 @@ main {
 
 .intro-chunk {
   padding: 0 16px;
+  max-width: 415px;
 }
