@@ -36,6 +36,10 @@ p {
   color: hsl(0deg, 0%, 10%)
 }
 
+.intro-chunk > p {
+  max-width: 415px;
+}
+
 main {
   padding: 64px 0;
   background-color: hsl(0deg, 0%, 40%)
@@ -65,5 +69,4 @@ main {
 
 .intro-chunk {
   padding: 0 16px;
-  max-width: 415px;
 }
